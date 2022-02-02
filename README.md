@@ -3,7 +3,7 @@
 1) **Download this repository using git clone or similar method:**<br>
    `git clone https://github.com/EPantelaios/LSTM-Neural-Networks.git`
 2) **Install Anaconda from official source based on your OS:**<br>
-   [https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual)
+   [https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual){:target="_blank"}
 3) **Run this command to setup the conda environment:**<br>
    `conda env create --file project3_env.yml`
 4) **Run programs in conda environment with:**<br>
