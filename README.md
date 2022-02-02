@@ -11,14 +11,12 @@
    - `python detect.py -d nasdaq2007_17.csv -n 10 -m 0.5`<br>
    - `python reduce.py -d nasdaq_input.csv -q nasdaq_query.csv`
 
-<br>
 
-#### In the respective folders there are the programs for the following implementations: ####
+#### In the respective folders there are the following implementations: ####
 1) Using LSTM neural network for foracasting timeseries
 2) Using LSTM neural network for timeseries anomaly detection
 3) Using convolutional neural network autoencoder for dimensionality reduction of timeseries 
 
-<br>
 
 #### Quick Notes: ####
 - There are pre-trained models for each folder and are ready to be used 
